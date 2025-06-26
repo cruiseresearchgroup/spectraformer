@@ -157,6 +157,10 @@ A learner simply needs to parameterize a distribution `p`.
 | Informer         |       31.45 (7.20)       | 62.06 (1.20) | 76.92 (0.14) | 37.90 (0.30) | 57.07 (6.57) | 53.08 |           0.88           | 1.92 | 2.23 | 3.21 | 1.78 |  2.01 |           2.66           |  5.57 | 3.27 | 5.20 | 2.61 |  3.86 |
 | PosRF-SORF       |       21.91 (5.98)       | 62.06 (1.36) | 66.33 (0.41) | 28.70 (3.87) | 52.37 (5.24) | 46.27 |           0.55           | 1.06 | 1.06 | 2.00 | 1.05 |  1.14 |           1.14           |  2.26 | 2.05 | 4.49 | 2.26 |  2.44 |
 
+## Heatmap
+
+<img src="resources/heatmap_128.png" alt="heatmap of Spectraformer variants (128 feat)">
+
 **References**
 
 Krzysztof Marcin Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Quincy Davis, Afroz Mohiuddin, Lukasz Kaiser, David Benjamin Belanger, Lucy J Colwell, and Adrian Weller. Rethinking attention with performers. In International Conference on Learning Representations, 2021. URL https://openreview.net/forum?id=Ua6zuk0WRH.
