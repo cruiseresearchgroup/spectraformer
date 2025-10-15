@@ -7,6 +7,8 @@
 
 *Spectraformer* a unified random feature framework for transformer for approximating and learning the kernel function in linearized attention of the Transformer. It allows for the combination of any weight matrix with any component function. This repository is the official implementation of Spectraformer, which demonstrates that a random feature-based approach can achieve performance comparable to top-performing sparse and low-rank methods on the Long Range Arena benchmark.
 
+This is the official repository of our [ACM Transactions on Intelligent Systems and Technology 2025](https://dl.acm.org/doi/10.1145/3768161) paper.
+
 <!-- ![spectraformer framework](./resources/framework.png) -->
 <img src="resources/framework.png" alt="spectraformer framework">
 
